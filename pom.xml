@@ -58,7 +58,7 @@
             <!-- Add frontend folder to war package -->
             <webResources>
               <resource>
-                <directory>src/main/frontend/dist/frontend</directory>
+                <directory>src/main/frontend/dist/</directory>
               </resource>
             </webResources>
 
